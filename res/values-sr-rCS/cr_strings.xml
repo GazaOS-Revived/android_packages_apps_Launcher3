@@ -169,8 +169,8 @@
     <string name="show_quickspace_title">Na prvi pogled</string>
     <string name="show_quickspace_summary">Show at the top of your home screen</string>
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
-    <string name="quick_event_rom_intro_welcome">Dobrodošli na Matrixx!</string>
-    <string name="quick_event_rom_intro_welcome_ext">Matrixx time!</string>
+    <string name="quick_event_rom_intro_welcome">Dobrodošli na GazaOS!</string>
+    <string name="quick_event_rom_intro_welcome_ext">GazaOS time!</string>
     <string-array name="welcome_message_variants">
         <item>Hvala Vam što ste izabrali nas</item>
         <item>Sviđamo Vam se? Pošaljite nam pivo</item>
@@ -309,14 +309,14 @@
         <item>Da li je već vreme za novo ažuriranje?</item>
         <item>Make peace, not war</item>
         <item>Oh hey, what\'s up?</item>
-        <item>Welcome to real Matrixx!</item>
+        <item>Welcome to real GazaOS!</item>
         <item>How many screenshots do you take?</item>
-        <item>Open goodness with Matrixx</item>
+        <item>Open goodness with GazaOS</item>
         <item>Spread love, not havoc</item>
         <item>We didn\'t start the fire!</item>
         <item>Time for some good music</item>
         <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>You need Matrixx Premium to see this</item>
+        <item>You need GazaOS Premium to see this</item>
         <item>Remember the Lineage of the Unicorn</item>
         <item>Enjoy Xtended battery life</item>
         <item>Starting from the ground zero</item>

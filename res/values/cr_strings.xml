@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Application name -->
-    <string name="matrixx_app_name" translatable="false">Matrixx Home</string>
+    <string name="matrixx_app_name" translatable="false">GazaOS Home</string>
 
     <!-- Folder titles -->
     <string name="google_folder_title" translatable="false">Google</string>
@@ -355,12 +355,12 @@
         <item>Oh hey, what\'s up?</item>
         <item>Welcome to real Matrix!</item>
         <item>How many screenshots do you take?</item>
-        <item>Matrixx: Mind makes it Real</item>
+        <item>GazaOS: Mind makes it Real</item>
         <item>Spread love, not havoc</item>
         <item>We didn\'t start the fire!</item>
         <item>Time for some good music</item>
         <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>You need Matrixx Premium to see this</item>
+        <item>You need GazaOS Premium to see this</item>
         <item>Remember the Lineage of the Unicorn</item>
         <item>Enjoy Xtended battery life</item>
         <item>Starting from the ground zero</item>
